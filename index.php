@@ -1,5 +1,7 @@
 <?php 
 
-echo "Olá, mundo!";
+echo "Olá, mundo! Aqui tudo ok.";
+
+echo "Olá, Guia Uébi!";
 
 ?>
