@@ -1,7 +1,7 @@
 <?php 
 
-echo "Olá, mundo! Agora deu problema?";
+echo "Olá, mundo! Aqui tudo ok, agora!";
 
-echo "Olá, HCode!";
+echo "Olá, HCode e Guia Uébi!";
 
 ?>
